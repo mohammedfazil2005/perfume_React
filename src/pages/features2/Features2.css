@@ -1,0 +1,46 @@
+.features-2-parent{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.features-2-left{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin: 0px 90px;
+   
+}
+
+.features-2-left h1{
+    font-size: 400px;
+
+}
+.features-2-left h2{
+    font-size: 50px;
+
+}
+.features-2-left p{
+    width: 500px;
+    font-size: 20px;
+}
+.features-2-right{
+   overflow: hidden;
+   display: flex;
+
+}
+.image-fe{
+    display: flex;
+    flex-direction: column;
+}
+.image-fe div{
+    display: flex;
+}
+.image-fe img{
+    width: 300px;
+}
+.leaf-div img{
+  transform: rotate(-40deg);
+    margin-top: -400px;
+    margin-left: -380px;
+}
