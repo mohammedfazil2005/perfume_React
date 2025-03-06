@@ -22,3 +22,9 @@
     }
 }
 
+
+@media screen and (max-width:1225px) {
+   .frag-animation-div img{
+    width: 350px;
+   }
+}
